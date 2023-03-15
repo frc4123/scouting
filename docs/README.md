@@ -1,4 +1,4 @@
-# Black Hawks Scouting
+# Tribe Robotics Scouting
 
 ## Overview
 
