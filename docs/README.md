@@ -6,7 +6,7 @@ Black Hawks Scouting is an advanced, web-based, and open source scouting app mad
 
 Powered by [Vue.js](https://vuejs.org) and [The Blue Alliance](https://thebluealliance.com).
 
-[Live Demo](https://frc2834.github.io/blackhawks-scouting/#/) | [Introductory Videos](https://www.youtube.com/playlist?list=PLBRtye3iMZkFWZWo_e2GbrHIJkexl5A20) (More coming soon)
+[Live Demo](https://frc4123.github.io/scouting/#/) | [Introductory Videos](https://www.youtube.com/playlist?list=PLBRtye3iMZkFWZWo_e2GbrHIJkexl5A20) (More coming soon)
 
 ## Features
 
